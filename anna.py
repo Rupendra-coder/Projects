@@ -1,0 +1,1 @@
+name =['john','sam','anna']math =['45','66','55']english=['89','87','78']for i in range(len(name)):    if name[i]=='john':        a=iprint('the math mark is ',math[a])print('the english mark is ',english[a])
